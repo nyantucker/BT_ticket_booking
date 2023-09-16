@@ -6,8 +6,8 @@ import BookingTicket from './BookingTicket/BookingTicket';
 function App() {
   return (
     <div className="App">
-     <TicketBooking/>
-     {/* <BookingTicket/> */}
+     {/* <TicketBooking/> */}
+     <BookingTicket/>
     </div>
   );
 }
